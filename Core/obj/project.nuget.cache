@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MdVzZdjr+e6dBdn2f42ppMniD505yKSByxgRBGan8jhR0ETCu3cbdLpW13dEHixCE0wTkA+wI0HYi77q40XH+A==",
+  "dgSpecHash": "NYldVJNfviE8eVNbS8H1SUNCFTHK7tov8N8+v3PQgsbDtu4+CTh6j5IYdTL/XwgAO5LZTGis3UUykLLiMB4y2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\Core.csproj",
+  "projectFilePath": "/home/apolm01-008/Downloads/eps_Csharp/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
