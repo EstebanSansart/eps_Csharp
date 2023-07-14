@@ -14,7 +14,7 @@ public class CitaConfiguration : IEntityTypeConfiguration<Cita>
         builder.Property(p => p.Cit_Doctor).IsRequired();
         builder.Property(p => p.Cit_UserData).IsRequired();
 
-        builder.HasOne(p => p.Usuarios).WithMany(e => e.Citas).HasForeignKey(f => f.PhoneNumberUsuario);
+        builder.HasOne(p => p.Usuarios).WithMany(e => e.Citas).HasForeignKey(f => f.PhoneNumberUser);
         builder.HasOne(p => p.EstadoCitas).WithMany(e => e.Citas).HasForeignKey(f => f.IdEstadoCita);
         builder.HasOne(p => p.Medicos).WithMany(e => e.Citas).HasForeignKey(f => f.FullNameMedico);
     }

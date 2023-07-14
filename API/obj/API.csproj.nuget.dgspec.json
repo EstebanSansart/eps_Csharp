@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolm01-008/Desktop/Esteban/miEps/API/API.csproj": {}
+    "C:\\Users\\karen\\Downloads\\eps_Csharp\\API\\API.csproj": {}
   },
   "projects": {
-    "/home/apolm01-008/Desktop/Esteban/miEps/API/API.csproj": {
+    "C:\\Users\\karen\\Downloads\\eps_Csharp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-008/Desktop/Esteban/miEps/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\karen\\Downloads\\eps_Csharp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/home/apolm01-008/Desktop/Esteban/miEps/API/API.csproj",
-        "packagesPath": "/home/apolm01-008/.nuget/packages/",
-        "outputPath": "/home/apolm01-008/Desktop/Esteban/miEps/API/obj/",
+        "projectPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolm01-008/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolm01-008/Desktop/Esteban/miEps/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/home/apolm01-008/Desktop/Esteban/miEps/Infrastructure/Infrastructure.csproj"
+              "C:\\Users\\karen\\Downloads\\eps_Csharp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -48,15 +51,9 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
@@ -86,26 +83,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/apolm01-008/Desktop/Esteban/miEps/Core/Core.csproj": {
+    "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-008/Desktop/Esteban/miEps/Core/Core.csproj",
+        "projectUniqueName": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/apolm01-008/Desktop/Esteban/miEps/Core/Core.csproj",
-        "packagesPath": "/home/apolm01-008/.nuget/packages/",
-        "outputPath": "/home/apolm01-008/Desktop/Esteban/miEps/Core/obj/",
+        "projectPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolm01-008/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,34 +138,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/apolm01-008/Desktop/Esteban/miEps/Infrastructure/Infrastructure.csproj": {
+    "C:\\Users\\karen\\Downloads\\eps_Csharp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-008/Desktop/Esteban/miEps/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/apolm01-008/Desktop/Esteban/miEps/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/home/apolm01-008/.nuget/packages/",
-        "outputPath": "/home/apolm01-008/Desktop/Esteban/miEps/Infrastructure/obj/",
+        "projectPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolm01-008/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolm01-008/Desktop/Esteban/miEps/Core/Core.csproj": {
-                "projectPath": "/home/apolm01-008/Desktop/Esteban/miEps/Core/Core.csproj"
+              "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\karen\\Downloads\\eps_Csharp\\Core\\Core.csproj"
               }
             }
           }
@@ -183,19 +184,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
@@ -218,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

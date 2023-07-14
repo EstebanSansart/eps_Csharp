@@ -1,4 +1,3 @@
-using System.Reflection;
 using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +13,6 @@ public class miEpsContext : DbContext{
     public DbSet<EstadoCita> ? EstadoCita { get; set; }
     public DbSet<Genero> ? Genero { get; set; }
     public DbSet<Medico> ? Medico { get; set; }
-    public Dbset<TipoDocumento> ? TipoDocumento { get; set; }
+    public DbSet<TipoDocumento> ? TipoDocumento { get; set; }
     public DbSet<Usuario>? Usuario { get; set; }
 }

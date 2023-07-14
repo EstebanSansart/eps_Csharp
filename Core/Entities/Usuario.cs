@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 namespace Core.Entities;
 public class Usuario
 {
+    [Key]
     public int Usu_Id { get; set; }
     public string ? Usu_FirstName { get; set; }
     public string ? Usu_SecondName { get; set; }
