@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/Core.csproj": {}
+    "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Core\\Core.csproj": {}
   },
   "projects": {
-    "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/Core.csproj": {
+    "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/Core.csproj",
+        "projectUniqueName": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/Core.csproj",
-        "packagesPath": "/home/apolm01-008/.nuget/packages/",
-        "outputPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/obj/",
+        "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\jhose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolm01-008/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jhose\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

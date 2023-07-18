@@ -1524,32 +1524,33 @@
     ]
   },
   "packageFolders": {
-    "/home/apolm01-008/.nuget/packages/": {}
+    "C:\\Users\\jhose\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/API/API.csproj",
+      "projectUniqueName": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/API/API.csproj",
-      "packagesPath": "/home/apolm01-008/.nuget/packages/",
-      "outputPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/API/obj/",
+      "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\jhose\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolm01-008/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jhose\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Infrastructure/Infrastructure.csproj"
+            "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\eps_Csharp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -1602,7 +1603,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
