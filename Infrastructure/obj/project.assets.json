@@ -1052,11 +1052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolm01-008/Downloads/eps_Csharp/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/home/apolm01-008/Downloads/eps_Csharp/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/home/apolm01-008/.nuget/packages/",
-      "outputPath": "/home/apolm01-008/Downloads/eps_Csharp/Infrastructure/obj/",
+      "outputPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/apolm01-008/.nuget/NuGet/NuGet.Config"
@@ -1071,8 +1071,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolm01-008/Downloads/eps_Csharp/Core/Core.csproj": {
-              "projectPath": "/home/apolm01-008/Downloads/eps_Csharp/Core/Core.csproj"
+            "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/Core.csproj": {
+              "projectPath": "/home/apolm01-008/Desktop/Esteban/eps_Csharp/Core/Core.csproj"
             }
           }
         }
